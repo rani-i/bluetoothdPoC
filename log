@@ -1,0 +1,141 @@
+2018-02-21 13:24:44.585039+0200 bluetoothdPoC[604:169104] Got bluetoothd port: c03
+
+2018-02-21 13:24:44.585666+0200 bluetoothdPoC[604:169104] Starting to look for session tokens
+
+2018-02-21 13:24:46.872143+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 1bd90001, returned: 0
+
+2018-02-21 13:24:46.872207+0200 bluetoothdPoC[604:169104] Found port: 1bd90001
+
+2018-02-21 13:24:47.130315+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 1f0d0001, returned: 0
+
+2018-02-21 13:24:47.130379+0200 bluetoothdPoC[604:169104] Found port: 1f0d0001
+
+2018-02-21 13:24:47.509223+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 23c70001, returned: 0
+
+2018-02-21 13:24:47.509251+0200 bluetoothdPoC[604:169104] Found port: 23c70001
+
+2018-02-21 13:24:51.370441+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 53d60001, returned: 0
+
+2018-02-21 13:24:51.370496+0200 bluetoothdPoC[604:169104] Found port: 53d60001
+
+2018-02-21 13:24:52.209365+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 5dfa0002, returned: 0
+
+2018-02-21 13:24:52.209430+0200 bluetoothdPoC[604:169104] Found port: 5dfa0002
+
+2018-02-21 13:24:54.072310+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 79650001, returned: 0
+
+2018-02-21 13:24:54.072375+0200 bluetoothdPoC[604:169104] Found port: 79650001
+
+2018-02-21 13:24:56.298830+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 93fa0001, returned: 0
+
+2018-02-21 13:24:56.298884+0200 bluetoothdPoC[604:169104] Found port: 93fa0001
+
+2018-02-21 13:24:57.155733+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 9e460001, returned: 0
+
+2018-02-21 13:24:57.155798+0200 bluetoothdPoC[604:169104] Found port: 9e460001
+
+2018-02-21 13:24:57.526964+0200 bluetoothdPoC[604:169104] Sent message id 3 with token a2cc0001, returned: 0
+
+2018-02-21 13:24:57.526994+0200 bluetoothdPoC[604:169104] Found port: a2cc0001
+
+2018-02-21 13:24:57.605860+0200 bluetoothdPoC[604:169104] Sent message id 3 with token a3da0001, returned: 0
+
+2018-02-21 13:24:57.605887+0200 bluetoothdPoC[604:169104] Found port: a3da0001
+
+2018-02-21 13:25:00.053941+0200 bluetoothdPoC[604:169104] Sent message id 3 with token c17e0001, returned: 0
+
+2018-02-21 13:25:00.054014+0200 bluetoothdPoC[604:169104] Found port: c17e0001
+
+2018-02-21 13:25:00.781194+0200 bluetoothdPoC[604:169104] Sent message id 3 with token ca3c0001, returned: 0
+
+2018-02-21 13:25:00.781246+0200 bluetoothdPoC[604:169104] Found port: ca3c0001
+
+2018-02-21 13:25:01.028697+0200 bluetoothdPoC[604:169104] Sent message id 3 with token cd290001, returned: 0
+
+2018-02-21 13:25:01.028758+0200 bluetoothdPoC[604:169104] Found port: cd290001
+
+2018-02-21 13:25:01.630783+0200 bluetoothdPoC[604:169104] Sent message id 3 with token d4e60001, returned: 0
+
+2018-02-21 13:25:01.630828+0200 bluetoothdPoC[604:169104] Found port: d4e60001
+
+2018-02-21 13:25:01.798587+0200 bluetoothdPoC[604:169104] Sent message id 3 with token d6ed0001, returned: 0
+
+2018-02-21 13:25:01.798619+0200 bluetoothdPoC[604:169104] Found port: d6ed0001
+
+2018-02-21 13:25:03.735064+0200 bluetoothdPoC[604:169104] Sent message id 3 with token eed20001, returned: 0
+
+2018-02-21 13:25:03.735127+0200 bluetoothdPoC[604:169104] Found port: eed20001
+
+2018-02-21 13:25:03.858679+0200 bluetoothdPoC[604:169104] Sent message id 3 with token f05b0001, returned: 0
+
+2018-02-21 13:25:03.858705+0200 bluetoothdPoC[604:169104] Found port: f05b0001
+
+2018-02-21 13:25:05.148896+0200 bluetoothdPoC[604:169104] Adding callback: Port=f05b0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.149085+0200 bluetoothdPoC[604:169104] Sent message id 3 with token f05b0001, returned: 0
+
+2018-02-21 13:25:05.149113+0200 bluetoothdPoC[604:169104] Adding callback: Port=eed20001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.149252+0200 bluetoothdPoC[604:169104] Sent message id 3 with token eed20001, returned: 0
+
+2018-02-21 13:25:05.149281+0200 bluetoothdPoC[604:169104] Adding callback: Port=d6ed0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.149358+0200 bluetoothdPoC[604:169104] Sent message id 3 with token d6ed0001, returned: 0
+
+2018-02-21 13:25:05.149383+0200 bluetoothdPoC[604:169104] Adding callback: Port=d4e60001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.149507+0200 bluetoothdPoC[604:169104] Sent message id 3 with token d4e60001, returned: 0
+
+2018-02-21 13:25:05.149536+0200 bluetoothdPoC[604:169104] Adding callback: Port=cd290001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.149610+0200 bluetoothdPoC[604:169104] Sent message id 3 with token cd290001, returned: 0
+
+2018-02-21 13:25:05.149637+0200 bluetoothdPoC[604:169104] Adding callback: Port=ca3c0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.149743+0200 bluetoothdPoC[604:169104] Sent message id 3 with token ca3c0001, returned: 0
+
+2018-02-21 13:25:05.149770+0200 bluetoothdPoC[604:169104] Adding callback: Port=c17e0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.149882+0200 bluetoothdPoC[604:169104] Sent message id 3 with token c17e0001, returned: 0
+
+2018-02-21 13:25:05.149907+0200 bluetoothdPoC[604:169104] Adding callback: Port=a3da0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.150047+0200 bluetoothdPoC[604:169104] Sent message id 3 with token a3da0001, returned: 0
+
+2018-02-21 13:25:05.150075+0200 bluetoothdPoC[604:169104] Adding callback: Port=a2cc0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.150226+0200 bluetoothdPoC[604:169104] Sent message id 3 with token a2cc0001, returned: 0
+
+2018-02-21 13:25:05.150253+0200 bluetoothdPoC[604:169104] Adding callback: Port=9e460001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.150359+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 9e460001, returned: 0
+
+2018-02-21 13:25:05.150386+0200 bluetoothdPoC[604:169104] Adding callback: Port=93fa0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.150457+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 93fa0001, returned: 0
+
+2018-02-21 13:25:05.150482+0200 bluetoothdPoC[604:169104] Adding callback: Port=79650001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.150631+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 79650001, returned: 0
+
+2018-02-21 13:25:05.150658+0200 bluetoothdPoC[604:169104] Adding callback: Port=5dfa0002 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.150762+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 5dfa0002, returned: 0
+
+2018-02-21 13:25:05.150787+0200 bluetoothdPoC[604:169104] Adding callback: Port=53d60001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.150922+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 53d60001, returned: 0
+
+2018-02-21 13:25:05.150948+0200 bluetoothdPoC[604:169104] Adding callback: Port=23c70001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.151041+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 23c70001, returned: 0
+
+2018-02-21 13:25:05.151069+0200 bluetoothdPoC[604:169104] Adding callback: Port=1f0d0001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.151192+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 1f0d0001, returned: 0
+
+2018-02-21 13:25:05.151220+0200 bluetoothdPoC[604:169104] Adding callback: Port=1bd90001 address=deadbeef value=13371337
+
+2018-02-21 13:25:05.151334+0200 bluetoothdPoC[604:169104] Sent message id 3 with token 1bd90001, returned: 0
+
+2018-02-21 13:25:05.151361+0200 bluetoothdPoC[604:169104] Done
