@@ -13,3 +13,5 @@ https://blog.zimperium.com/new-crucial-vulnerabilities-apples-bluetoothd-daemon/
 
 https://blog.zimperium.com/cve-2018-4087-poc-escaping-sandbox-misleading-bluetoothd/
 
+
+@raniXCH (twitter.com/raniXCH)
