@@ -1,0 +1,12 @@
+
+*.xcworkspacedata
+*.xcuserstate
+*.pbxproj
+*.xcbkptlist
+.DS_Store
+*.plist
+*.storyboard
+*.h
+*.m
+*.json
+*.swp

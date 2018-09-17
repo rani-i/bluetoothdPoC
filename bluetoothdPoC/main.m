@@ -33,13 +33,12 @@ extern kern_return_t bootstrap_look_up(mach_port_t bs, const char *service_name,
 #define ADD_CALLBACK_MACH_MSG_IN_CALLBACK_DATA 0x40
 
 
-
 typedef unsigned int mach_msg_return_value;
 
+mach_msg_return_t    mach_msg_send(mach_msg_header_t *);
 
 mach_port_t get_service_port(char *service_name)
 {
-    
     kern_return_t ret = KERN_SUCCESS;
     mach_port_t service_port = MACH_PORT_NULL;
     mach_port_t bs = MACH_PORT_NULL;
@@ -77,7 +76,6 @@ mach_msg_return_value BTLocalDevice_add_callback(mach_port_t bluetoothd_port, ma
     mach_msg_size_t send_size = BLUETOOTHD_MACH_MESSAGE_ADD_CALLBACK_SEND_SIZE;
     mach_msg_option_t options = BLUETOOTHD_MACH_MESSAGE_ADD_CALLBACK_OPTIONS;
     mach_msg_size_t msg_size = MAX(recv_size, send_size);
-    
     
     ret = mach_port_allocate(mach_task_self(), MACH_PORT_RIGHT_RECEIVE, &receive_port);
     if ( ret != KERN_SUCCESS)
