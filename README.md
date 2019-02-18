@@ -1,4 +1,4 @@
-@raniXCH (twitter.com/raniXCH)
+[@RaniXCH](https://twitter.com/raniXCH)
 
 # bluetoothdPoC
 
